@@ -7,13 +7,20 @@ Welcome to my open-source hall of fame! I actively contribute to world-class rep
 ---
 
 ### 📊 Contribution Highlights
-- **Total Merged Contributions**: 2
-- **Total Bounty Rewards Earned**: $105 USDC
+- **Total Merged Contributions**: 3
+- **Total Bounty Rewards Earned**: $605 USDC
 - **Primary Languages**: TypeScript, Python, Rust, Go, Solidity
 
 ---
 
 ### 🌟 Merged Contributions & Maintainer Gratitude
+
+#### [web3-org/dex](https://github.com/web3-org/dex)
+- **Pull Request**: [#88 — ](https://github.com/web3-org/dex/pull/88)
+- **Reward**: $500 USDC
+- **Status**: 🟣 Merged (2026-11-07)
+- **Gratitude Note**:
+  > *"Thank you so much to the maintainer team at web3-org/dex for your swift review, insightful feedback, and dedicated stewardship of the repository. It was a genuine pleasure collaborating with you and contributing clean, well-tested code to help strengthen the project. I deeply appreciate your commitment to maintaining high engineering standards and look forward to supporting the project's continued growth!"*
 
 #### [azerothcore/Keira3](https://github.com/azerothcore/Keira3)
 - **Pull Request**: [#3946 — fix: correct window bounds calculation and packaging](https://github.com/azerothcore/Keira3/pull/3946)
