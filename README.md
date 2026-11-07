@@ -6,6 +6,13 @@ I focus on **deeply investigated edge cases, surgical minimal diffs, and 100% te
 
 ---
 
+### 🏆 Open-Source Achievements & Community Thanks
+I actively solve complex bugs, harden security invariants, and contribute tests to production repositories.
+
+👉 **[Explore all merged pull requests, bounty milestones, and maintainer notes in ACHIEVEMENTS.md](./ACHIEVEMENTS.md)**
+
+---
+
 ### ⚡ Quick Facts
 - 🌏 Timezone: `JST (UTC+9)` — fixing bugs while your team is offline.
 - 🛠️ Stack: Rust, TypeScript, Python, Solana, Web3
