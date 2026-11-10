@@ -7,13 +7,20 @@ Welcome to my open-source hall of fame! I actively contribute to world-class rep
 ---
 
 ### 📊 Contribution Highlights
-- **Total Merged Contributions**: 3
-- **Total Bounty Rewards Earned**: $605 USDC
+- **Total Merged Contributions**: 4
+- **Total Bounty Rewards Earned**: $680 USDC
 - **Primary Languages**: TypeScript, Python, Rust, Go, Solidity
 
 ---
 
 ### 🌟 Merged Contributions & Maintainer Gratitude
+
+#### [ubiquity/ubq.fi-router](https://github.com/ubiquity/ubq.fi-router)
+- **Pull Request**: [#57 — fix: honor request no-transform and strip modern digest headers (#37)](https://github.com/ubiquity/ubq.fi-router/pull/57)
+- **Reward**: $75 USDC
+- **Status**: 🟣 Merged (2026-11-10)
+- **Gratitude Note**:
+  > *"A heartfelt thank you to the Ubiquity maintainer team for their swift review, thoughtful feedback, and outstanding stewardship of the repository. It was deeply satisfying to contribute clean code and robust test coverage to ensure reliable HTTP header and digest handling in ubq.fi-router. Collaborating with such a dedicated and responsive team made this experience an absolute pleasure, and I look forward to future contributions to the project."*
 
 #### [web3-org/dex](https://github.com/web3-org/dex)
 - **Pull Request**: [#88 — ](https://github.com/web3-org/dex/pull/88)
